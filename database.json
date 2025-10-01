@@ -1,0 +1,46 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "firstName": "Arnold",
+            "lastName": "Schwarzeneggar",
+            "created": "01-07-1985",
+            "updated": "05-07-2021"
+        },
+        {
+            "id": 2,
+            "firstName": "Jon",
+            "lastName": "Bonjovi",
+            "created": "03-01-1992",
+            "updated": "12-08-2007"
+        },
+        {
+            "id": 3,
+            "firstName": "Abraham",
+            "lastName": "Lincoln",
+            "created": "01-02-1839",
+            "updated": "15-04-1865"
+        },
+        {
+            "id": 4,
+            "firstName": "Marie",
+            "lastName": "Curie",
+            "created": "07-11-1867",
+            "updated": "04-07-1934"
+        },
+        {
+            "id": 5,
+            "firstName": "Ada",
+            "lastName": "Lovelace",
+            "created": "10-12-1815",
+            "updated": "27-11-1852"
+        },
+        {
+            "id": 6,
+            "firstName": "Nikola",
+            "lastName": "Tesla",
+            "created": "10-07-1856",
+            "updated": "07-01-1943"
+        }
+    ]
+}
